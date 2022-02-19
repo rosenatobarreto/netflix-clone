@@ -43,7 +43,7 @@ header nav a:hover{
 /*filme principal*/
 .filme-principal{
     font-size: 16px;
-    background: linear-gradient(rgba(0, 0, 0, .50), rgba(0, 0, 0, .50)100%), url('/img/all-of-us-are-dead.jpg');
+    background: linear-gradient(rgba(0, 0, 0, .50), rgba(0, 0, 0, .50)100%), url('/img/capa-livro-boba-fett-2364px.jpg');
     
     height: 400px;
     background-size: cover;
@@ -57,6 +57,7 @@ header nav a:hover{
 .filme-principal .descricao{
     margin-top: 10px;
     margin-bottom: 40px;
+    font-family: 'Arial', sans-serif; 
 }
 
 .filme-principal .titulo{
@@ -87,9 +88,15 @@ header nav a:hover{
 }
 
 .container{
-    margin-left: 30px;
+    margin-left: 20px;
 }
 
 .filme-principal .container{
     width: 70%;
+}
+
+.box-filme{
+    height: 100%;
+    width: 100%;
+    display: block;
 }
