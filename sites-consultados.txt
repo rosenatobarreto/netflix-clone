@@ -1,4 +1,4 @@
 https://fontawesome.com/
 https://www.themoviedb.org/
-https://getbootstrap.com/
 https://owlcarousel2.github.io/OwlCarousel2/
+
